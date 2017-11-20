@@ -65,17 +65,17 @@ hr {
  	width: 100%;
 	height: 50px;
 	margin-top: 10px;
-	box-shadow: 0 20px 20px -20px #333;
+	box-shadow: 0 30px 10px -0px #333;
 	margin: -50px auto 10px; 
 }
 
 .content{
 	color : #b35900;
 	float: left;
-	width: 100%;
+	width: 101.5%;
 	height: 150%; 
 	background-color : #648472;
-	margin : 50px 50px;
+	margin : 50px -17px;
 	padding : 10px 10px;
 }
 
